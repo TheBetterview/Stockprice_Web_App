@@ -1,5 +1,5 @@
-# myportfolio
 
+Steamlit application project for stock closing price and volumen for top IT companies. 
 
 Babysteps towards learning streamlit library and methods to creat web based applications for interactive way of providing visuals and analysis. Hope this helps everyone
 
